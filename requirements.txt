@@ -1,0 +1,4 @@
+The following things are required to run AI Stock Assistant 1.0 -
+yfinance
+pandas
+matplotlib
